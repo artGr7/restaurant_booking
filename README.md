@@ -17,6 +17,6 @@
 
 git clone https://github.com/arGr7/restaurant_booking.git
 
-2. Запустите приложение
+2. Запустите приложение через командную строку
 
 docker-compose up --build
